@@ -1,7 +1,7 @@
 # ORGANOGRAMA DE ESTUDOS
 
 <h2>CANAL NO YOUTUBE<h2>
-<a href="https://www.youtube.com/channel/UCqeV9QjYoUxOLD6p3QwxpnA/videos" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/OrganogramaDeEstudos/gh-pages/Imagens/YTbutao.png"></a><br clear="all"/><br clear="all"/>
+<a href="https://www.youtube.com/channel/UCd52qMJ2L7jBWqrcxmqUiZg/videos" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/OrganogramaDeEstudos/gh-pages/Imagens/YTbutao.png"></a><br clear="all"/><br clear="all"/>
 
 # BOTÃO LINK DO ORGANOGRAMA
 <p align="justify">
